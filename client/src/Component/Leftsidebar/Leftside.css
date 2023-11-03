@@ -1,0 +1,15 @@
+.link {
+  color: black;
+}
+
+.icons p {
+  font-size: larger;
+  font-weight: 900;
+  margin: 0;
+  text-decoration: none;
+}
+
+.icons:hover{
+    background-color: rgb(242, 243, 237);
+  
+}
